@@ -1,0 +1,10 @@
+C:\Users\Carlos\Documents\Visual Studio 2013\Projects\Doenças Transmitidas pela Água\Doenças Transmitidas pela Água\bld\Debug\platforms\android\ant-build\classes.dex : \
+C:\Users\Carlos\Documents\Visual Studio 2013\Projects\Doenças Transmitidas pela Água\Doenças Transmitidas pela Água\bld\Debug\platforms\android\ant-build\classes\io\cordova\Doen_asTransmitidaspela_gua\CordovaApp.class \
+C:\Users\Carlos\Documents\Visual Studio 2013\Projects\Doenças Transmitidas pela Água\Doenças Transmitidas pela Água\bld\Debug\platforms\android\ant-build\classes\io\cordova\DoençasTransmitidaspelaÁgua\BuildConfig.class \
+C:\Users\Carlos\Documents\Visual Studio 2013\Projects\Doenças Transmitidas pela Água\Doenças Transmitidas pela Água\bld\Debug\platforms\android\ant-build\classes\io\cordova\DoençasTransmitidaspelaÁgua\CordovaApp.class \
+C:\Users\Carlos\Documents\Visual Studio 2013\Projects\Doenças Transmitidas pela Água\Doenças Transmitidas pela Água\bld\Debug\platforms\android\ant-build\classes\io\cordova\DoençasTransmitidaspelaÁgua\R$attr.class \
+C:\Users\Carlos\Documents\Visual Studio 2013\Projects\Doenças Transmitidas pela Água\Doenças Transmitidas pela Água\bld\Debug\platforms\android\ant-build\classes\io\cordova\DoençasTransmitidaspelaÁgua\R$drawable.class \
+C:\Users\Carlos\Documents\Visual Studio 2013\Projects\Doenças Transmitidas pela Água\Doenças Transmitidas pela Água\bld\Debug\platforms\android\ant-build\classes\io\cordova\DoençasTransmitidaspelaÁgua\R$string.class \
+C:\Users\Carlos\Documents\Visual Studio 2013\Projects\Doenças Transmitidas pela Água\Doenças Transmitidas pela Água\bld\Debug\platforms\android\ant-build\classes\io\cordova\DoençasTransmitidaspelaÁgua\R$xml.class \
+C:\Users\Carlos\Documents\Visual Studio 2013\Projects\Doenças Transmitidas pela Água\Doenças Transmitidas pela Água\bld\Debug\platforms\android\ant-build\classes\io\cordova\DoençasTransmitidaspelaÁgua\R.class \
+C:\Users\Carlos\Documents\Visual Studio 2013\Projects\Doenças Transmitidas pela Água\Doenças Transmitidas pela Água\bld\Debug\platforms\android\ant-build\dexedLibs\classes-f5c3c39c4dec027037d9073788ca84e2.jar \
